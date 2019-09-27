@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InstaTest</string>
+    <string name="facebook_app_id">458936171594796</string>
+    <string name="fb_login_protocol_scheme">fb458936171594796</string>
+
+
+</resources>
